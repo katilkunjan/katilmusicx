@@ -3,7 +3,7 @@
 ### Best Smart Voice Chat Music Robot For Telegram Groups ...
 
 
-<p align="center"><a href="https://t.me/tera_baap_katil"><img src="https://telegra.ph/file/2258849c8eef00541084c.jpg"></a></p>
+<p align="center"><a href="https://t.me/heartbrokenperson1"><img src="https://telegra.ph/file/2258849c8eef00541084c.jpg"></a></p>
 
 
 # ʜᴇʀoᴋᴜ ᴅᴇᴘʟᴏʏ
