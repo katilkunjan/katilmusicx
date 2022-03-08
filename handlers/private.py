@@ -17,8 +17,8 @@ async def start_(client: Client, message: Message):
 𝐒𝐮𝐩𝐩𝐨𝐫𝐭 :- [✨  ❖Ƭʜᴇ︻╦╤─🅻🅾️🆅🅴🆁🆂 🅿️🅾️🅸🅽🆃─╤╦︻ヅ](https://t.me/FULL_MASTI_CLUBS)
 𝐃𝐢𝐬𝐜𝐮𝐬𝐬 :- [✨  HEART BROKEN 💔 PERSON](https://t.me/heartbrokenperson1)
 𝐒𝐨𝐮𝐫𝐜𝐞  :- [✨  𝗖𝗹𝗶𝗰𝗸 ☑️ 𝗥𝗲𝗽𝗼 🌍](https://t.me/FULL_MASTI_CLUBS)
-𝐂𝐨𝐦𝐦𝐚𝐧𝐝 :- [✨𝗖𝗹𝗶𝗰𝗸 ☑️ 𝗡𝗼𝘄 🚩](https://telegra.ph/%EA%9C%B1%E1%B4%8D%E1%B4%8F%E1%B4%8B%E1%B4%87%CA%80-%E1%B4%8D%E1%B4%9C%EA%9C%B1%C9%AA%E1%B4%84-%CA%99%E1%B4%8F%E1%B4%9B-%E1%B4%84%E1%B4%8F%E1%B4%8D%E1%B4%8D%E1%B4%80%C9%B4%E1%B4%85%EA%9C%B1-08-29)
-𝐅𝐞𝐞𝐋𝐢𝐧𝐠'𝐒 :- [✨ 𝗝𝗼𝗶𝗻 ❤️🥀](https://t.me/heartbrokenperson1)
+
+
 
 𝐈𝐟 𝐘𝐨𝐮 𝐇𝐚𝐯𝐞 𝐀𝐧𝐲 𝐐𝐮𝐞𝐬𝐭𝐢𝐨𝐧𝐬 𝐀𝐧𝐝 𝐇𝐞𝐥𝐩 𝐓𝐡𝐞𝐧 𝐃𝐦 𝐌𝐲 𝐁𝐨𝐬𝐬 = [༒︎★•亗『𝐊𝐀𝐓𝐈𝐋』亗•★ ](https://t.me/tera_baap_katil)**""",
     reply_markup=InlineKeyboardMarkup(
